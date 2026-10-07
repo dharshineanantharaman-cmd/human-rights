@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This portfolio presents an academic analysis of selected issues in equality and human rights law, examining the legal protection of fundamental rights and the relationship between individual rights, equality and the responsibilities of public authorities.
+This portfolio critically examines the legal position of non-binary individuals in the UK, focusing on the extent to which the Equality Act 2010 and Gender Recognition Act 2004 provide effective recognition and protection. It analyses key authorities including *R (Elan-Cane) v Secretary of State for the Home Department*, *Taylor v Jaguar Land Rover Ltd* and *Goodwin v United Kingdom*, alongside comparative international frameworks. The research evaluates existing legal gaps, administrative implications and possible pathways for reform.
 
 **Academic context:** LLB (Hons), University of East London.
 
