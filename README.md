@@ -1,8 +1,8 @@
-# Civil & Criminal Litigation
+# Human Rights
 
 ## Abstract
 
-This portfolio examines key aspects of civil and criminal litigation, including pre-action procedure, personal injury claims, expert evidence, alternative dispute resolution, damages, pleadings, police custody and bail. The work demonstrates the application of procedural rules and legal principles to practical litigation scenarios.
+This portfolio presents an academic analysis of selected issues in equality and human rights law, examining the legal protection of fundamental rights and the relationship between individual rights, equality and the responsibilities of public authorities.
 
 **Academic context:** LLB (Hons), University of East London.
 
