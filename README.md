@@ -6,4 +6,6 @@ This portfolio critically examines the legal position of non-binary individuals 
 
 **Academic context:** LLB (Hons), University of East London.
 
+📄 **Read the full research:** Open **`Human_Rights_cw.pdf`** to view the complete work.
+
 > This repository contains academic work prepared for portfolio purposes.
